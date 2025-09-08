@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "html5-qrcode": "^2.3.8",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.542.0",
     "mongodb": "^6.17.0",
